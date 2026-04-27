@@ -17,7 +17,7 @@ A web app to scan IPs, domains, and emails for threat indicators using open-sour
 
 - IP lookup — location, org, and raw metadata
 - Domain scan — malicious, suspicious, harmless, undetected counts via VirusTotal
-- Email breach check — risk score and breach list
+- Email breach check — risk score and breach list (mock data, no API integrated yet)
 
 ---
 
